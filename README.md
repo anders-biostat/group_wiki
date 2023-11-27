@@ -1,1 +1,1 @@
-For the Group Wiki, click on "Wiki" above.
+Our Group Wiki is [here](https://github.com/anders-biostat/group_wiki/wiki).
